@@ -1,0 +1,60 @@
+header {
+    background: linear-gradient(
+        #bbd2c5,
+        #536976,
+        #292e49);
+        padding: 2%;
+        padding-bottom: 0%;
+        padding-top: 0.5%;
+}
+h1 {
+    color: azure;
+    text-shadow: -1px -1px 0 #ff0000,
+    1px -1px 0 #ff0000,
+    -1px 1px 0 #ff0000,
+    1px 1px 0 #ff0000;
+    font-size: 5em;
+   text-align: center;
+}
+
+.ss_header {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2em;
+    color: bisque;
+}
+
+.ss_header2 {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2em;
+    color: bisque;
+}
+
+body {
+ background-color: aquamarine;
+ margin: auto;
+}
+
+img{
+    width: 25em;
+    height: 15em;
+    border-radius: 20% 20% 20% 20%;
+}
+
+.contain{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 2%;
+    flex-wrap: wrap;
+    padding-bottom: 2%;
+
+}
+.footer {
+    background: linear-gradient(
+        #bbd2c5,
+        #536976,
+        #292e49);
+        padding: 2%;
+}
